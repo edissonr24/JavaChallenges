@@ -49,6 +49,4 @@ class AnagramStringTest {
 		boolean isAnagram = anagramString.isAnagram("Monkeys Write", "NewYork Times");
 		assertTrue(isAnagram);
 	}
-
-
 }

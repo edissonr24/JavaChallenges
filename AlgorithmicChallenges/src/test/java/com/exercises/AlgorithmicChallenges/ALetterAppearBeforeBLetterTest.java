@@ -42,6 +42,5 @@ class ALetterAppearBeforeBLetterTest {
 		boolean result = aLetterAppearBeforeBLetter.checkWord("abbbb");
 		assertTrue(result);
 	}
-	
 
 }
